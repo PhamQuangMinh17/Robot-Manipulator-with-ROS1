@@ -1,8 +1,0 @@
-# Define output interface of controller manager
-# Add parameters to namespace minh_robot
-minh_robot:
-
-  joint_state_controller:
-    type: "joint_state_controller/JointStateController"
-    # Output interface publish output message with freq = 50hz
-    publish_rate: 50
