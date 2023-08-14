@@ -1,0 +1,14 @@
+controller_list:
+  - name: fake_minh_robot_arm_controller
+    type: $(arg fake_execution_type)
+    joints:
+      - joint_1
+      - joint_2
+      - joint_3
+  - name: fake_minh_robot_gripper_controller
+    type: $(arg fake_execution_type)
+    joints:
+      - joint_4
+initial:  # Define initial robot poses.
+  - group: minh_robot_arm
+    pose: home
