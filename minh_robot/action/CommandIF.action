@@ -1,0 +1,9 @@
+# (Request) Goal         
+float64[] arm_pos
+float64[] gripper_pos
+---
+# (Response) Result
+bool success
+---
+# Feedback
+int64 feedback
