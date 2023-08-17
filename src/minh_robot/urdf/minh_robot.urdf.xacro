@@ -1,7 +1,3 @@
-<!--  Author: Pham Quang Minh
-  email: quangminh2479@gmail.com
-  Date: 14th July 2023
--->
 <?xml version = "1.0"?>
 <!-- Add directory of xacro parser -->
 <robot xmlns:xacro = "http://www.ros.org/wiki/xacro" name = "minh_robot">
