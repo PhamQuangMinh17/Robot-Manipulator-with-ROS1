@@ -1,7 +1,8 @@
-# robot_manipulator_ros
+#     Robot-Manipulator-with-ROS1
+
 **Video demostration:**
 - Simulation:
-- 
+
 Part 1: https://www.youtube.com/watch?v=n7D3fjecdEo
 
 Part 2: https://www.youtube.com/watch?v=IPjg3dSxxC4
