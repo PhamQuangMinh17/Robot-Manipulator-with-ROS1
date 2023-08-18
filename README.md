@@ -7,10 +7,22 @@ Part 2: https://www.youtube.com/watch?v=IPjg3dSxxC4
 
 
 **Project Description**
+
 To be updated soon 
+
+
 **Installation & Implementation**
+
 To be updated soon 
+
+
 **Debugging**
+
 To be updated soon 
+
+
 **Other**
+
 To be updated soon 
+
+
