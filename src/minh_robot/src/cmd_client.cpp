@@ -32,13 +32,15 @@ int main(int argc, char **argv)
     std::cin>> GripperSTT;
     if(GripperSTT == 0)
     {
+      // Gripper Close
         GripperPosArray[0] = 0;
         GripperPosArray[1] = 0;
     }
     else if(GripperSTT == 1)
     {
-        GripperPosArray[0] = -0.07;
-        GripperPosArray[1] = 0.07;
+      // Gripper Open
+        GripperPosArray[0] = -0.7;
+        GripperPosArray[1] = 0.7;
     }
     else{
         // Do nothing
