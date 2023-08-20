@@ -22,7 +22,7 @@ To be updated soon
 - Programming Language: C++, Python, XML --> Visual studio is recommended for better managing files of project.
 - Please check whether gazebo and Rviz are working normally on your ubuntu. Re-install them if they are not working properly.
 - Install Arduino IDE version 1.8.19 for Linux Debian.
-- ROS Packages:gazebo-ros-control, rosserial, rosserial-arduino, roboticsgroup-upatras-gazebo-plugins, actionlib, actionlib-tools (for testing), joint-state-publisher-gui,  ros-noetic-moveit
+- ROS Packages:gazebo-ros-control, rosserial, rosserial-arduino, roboticsgroup-upatras-gazebo-plugins, actionlib, actionlib-tools (for testing), joint-state-publisher-gui, moveit
 - (Optional) Visual Studio: Installing C++, Python and CMake Tools, XML  in Visual Studio
 
 ## Installation
