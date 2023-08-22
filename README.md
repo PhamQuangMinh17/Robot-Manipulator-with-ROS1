@@ -51,7 +51,7 @@ Copy and paste the setup path of your project to bashrc file.For example:
 
 - On Terminal 1, Launch the simulation version:
 
-`$ roslaunch minh_robot simulation_final.launc`h
+`$ roslaunch minh_robot simulation_final.launch`
 
 - On Terminal 2, start the command server:
 
