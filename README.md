@@ -12,18 +12,31 @@ Part 2: https://www.youtube.com/watch?v=IPjg3dSxxC4
 
 ## Project Description
 
-To be updated soon 
+Control 3D-printed robot arm with ROS1 and Arduino Uno. 
 
 
 ## Prerequisite
-
-- This project was build on **ubuntu 18.04**. You can try with other version of ubuntu but please keep in mind the supported version of ROS. 
-- Install: Any version of ROS 1 ( Recommend **ROS Melodic** since this project was built with ROS Melodic)
-- Programming Language: C++, Python, XML --> Visual studio is recommended for better managing files of project.
-- Please check whether gazebo and Rviz are working normally on your ubuntu. Re-install them if they are not working properly.
-- Install Arduino IDE version 1.8.19 for Linux Debian.
-- ROS Packages:gazebo-ros-control, rosserial, rosserial-arduino, roboticsgroup-upatras-gazebo-plugins, actionlib, actionlib-tools (for testing), joint-state-publisher-gui, moveit
-- (Optional) Visual Studio: Installing C++, Python and CMake Tools, XML  in Visual Studio
+### Hardware
+- Arduino Uno
+- 4 Servo Motors SG90
+- Jumper wires
+- Botl and Nuts
+- 3D printed robot parts from **https://www.thingiverse.com/thing:1015238**
+- 
+### Software
+- **Linux:**
+This project was build on **ubuntu 18.04**. You can try with other version of ubuntu but please keep in mind the supported version of ROS. 
+- **ROS1**:
+Install Any version of ROS 1 ( Recommend **ROS Melodic** since this project was built with ROS Melodic)
+- **Programming Language:**
+C++, Python, XML --> Visual studio is recommended for better managing files of project.
+- **Arduino IDE**
+Install Arduino IDE version 1.8.19 for Linux Debian.
+- **ROS Packages and tools**:
+gazebo-ros-control, rosserial, rosserial-arduino, roboticsgroup-upatras-gazebo-plugins, actionlib, actionlib-tools (for testing), joint-state-publisher-gui, moveit.
+- **Other Notes**
+Please check whether gazebo and Rviz are working normally on your ubuntu. Re-install them if they are not working properly.
+(Optional) Visual Studio: Installing C++, Python and CMake Tools, XML  in Visual Studio
 
 ## Installation
 - Create your new ROS Workspace at /usr/home/"name" ("name" is arbitrary).
@@ -73,6 +86,8 @@ To be updated
 Use rostopic list to see available ROS topics.
 
 Use rosservice list to see available ROS service.
+
+Use rosparam list to see available ROS parameters on Parameter server.
 
 ## Acknowledgement
 - 3D CAD source: Antonio Brandy and EEZYbotARM.
