@@ -22,10 +22,10 @@ Control 3D-printed robot arm with ROS1 and Arduino Uno.
 - Jumper wires
 - Botl and Nuts
 - 3D printed robot parts from **https://www.thingiverse.com/thing:1015238**
-- 
+
 ### Software
 - **Linux:**
-This project was build on **ubuntu 18.04**. You can try with other version of ubuntu but please keep in mind the supported version of ROS. 
+This project was built on **ubuntu 18.04**. You can try with other version of ubuntu but please keep in mind the supported ROS Version. 
 - **ROS1**:
 Install Any version of ROS 1 ( Recommend **ROS Melodic** since this project was built with ROS Melodic)
 - **Programming Language:**
