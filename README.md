@@ -25,16 +25,22 @@ Control 3D-printed robot arm with ROS1 and Arduino Uno.
 
 ### Software
 - **Linux:**
+
 This project was built on **ubuntu 18.04**. You can try with other version of ubuntu but please keep in mind the supported ROS Version. 
 - **ROS1**:
+
 Install Any version of ROS 1 ( Recommend **ROS Melodic** since this project was built with ROS Melodic)
 - **Programming Language:**
+
 C++, Python, XML --> Visual studio is recommended for better managing files of project.
 - **Arduino IDE**
+
 Install Arduino IDE version 1.8.19 for Linux Debian.
 - **ROS Packages and tools**:
+
 gazebo-ros-control, rosserial, rosserial-arduino, roboticsgroup-upatras-gazebo-plugins, actionlib, actionlib-tools (for testing), joint-state-publisher-gui, moveit.
-- **Other Notes**
+- **Other Notes:**
+
 Please check whether gazebo and Rviz are working normally on your ubuntu. Re-install them if they are not working properly.
 (Optional) Visual Studio: Installing C++, Python and CMake Tools, XML  in Visual Studio
 
