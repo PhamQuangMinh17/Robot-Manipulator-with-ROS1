@@ -61,7 +61,7 @@ You can do it permanently by:
 
 Copy and paste the setup path of your project to bashrc file.For example:
 
-`source ~/arduinobot_ws/devel/setup.bash`
+`source ~/Robot-Manipulator-with-ROS1/devel/setup.bash`
 
 
 ## Usage
